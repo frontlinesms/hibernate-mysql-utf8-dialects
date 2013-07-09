@@ -3,7 +3,7 @@
 	<groupId>net.frontlinesms</groupId>
 	<artifactId>hibernate-mysql-utf8-dialects</artifactId>
 	<name>Hibernate MySQL UTF-8 Dialects</name>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<description>UTF-8 dialect fixes for Hibernate's MySQL dialect</description>
 	
 	<scm>
